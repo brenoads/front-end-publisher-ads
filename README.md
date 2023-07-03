@@ -1,4 +1,4 @@
-# Front-End Publisher ADS
+# Front-end Publisher ADS
 
 Aqui é possível baixar o código fonte do Projeto Front-end Publisher ADS, que é um site baseado em uma rede de publicidade, que aceita tanto anunciantes, quanto editores, o mesmo conta com uma pagina inicial totalmente responsiva.
 
